@@ -1,0 +1,14 @@
+# Space Station Safety Detection - Streamlit App Requirements
+# For deployment on Streamlit Cloud
+
+streamlit==1.35.0
+ultralytics==8.2.0
+opencv-python-headless==4.10.0.84
+torch==2.4.0
+torchvision==0.19.0
+numpy==1.26.4
+Pillow==10.3.0
+pyyaml==6.0.1
+matplotlib==3.8.4
+seaborn==0.13.2
+pandas==2.2.2
